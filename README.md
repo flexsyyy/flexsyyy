@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, Im Talib👋
 
-<!--
-**flexsyyy/flexsyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergrad | Building impactful solutions |  AI & Automation Enthusiast |  Machine Learning Explorer.
 
-Here are some ideas to get you started:
+### 🌟 About Me
+-  Currently working on **AI and automation projects*
+-  Learning and exploring **Machine learning, GenAi**
+-  Open to collaborate on **open-source projects** and **Hackathons**
+-  I love mixing **tech + creativity** to build meaningful projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Let’s Connect
+[![LinkedIn](www.linkedin.com/in/syed-aqeeb-talib-08326125a)
+[![LinkedIn](https://www.instagram.com/09.talib16/)
+
+
+✨ *Always building. Always learning.*  
