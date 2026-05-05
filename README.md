@@ -1,9 +1,9 @@
-## Hi there, Im Talib👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Talib!;I'm+a+Software+Engineer..;I+like+making+impactful+applications!)](https://git.io/typing-svg)
+
 
 Computer Science undergrad | Building impactful solutions |  AI & Automation Enthusiast |  DevOps Engineer
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Talib!;I'm+a+Software+Engineer..;I+like+making+impactful+applications!)](https://git.io/typing-svg)
 
 
 ### 🌟 About Me
