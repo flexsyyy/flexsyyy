@@ -8,7 +8,7 @@ Computer Science undergrad | Building impactful solutions |  AI & Automation Ent
 
 ### 🌟 About Me
 -  Currently working on *AI and automation projects*
--  Learning and exploring **Machine learning, GenAi**
+-  Learning and exploring **Generative AI and Agentic AI**
 -  Open to collaborate on **open-source projects** and **Hackathons**
 -  I love mixing **tech + creativity** to build meaningful projects  
 
