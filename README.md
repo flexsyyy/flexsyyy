@@ -1,8 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Talib!;I'm+a+Software+Engineer..;I+like+making+impactful+apps...!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Talib!;I'm+an+AI+Engineer..!)](https://git.io/typing-svg)
 
 
-Computer Science undergrad | Building impactful solutions |  AI & Automation Enthusiast |  DevOps Engineer
+Computer Science undergrad | Building impactful AI solutions |  AI & Automation Enthusiast |  DevOps 
 
 
 
