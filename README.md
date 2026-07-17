@@ -2,14 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Talib!;I'm+an+AI+Engineer..!)](https://git.io/typing-svg)
 
 
-Computer Science undergrad | Building impactful AI solutions |  AI & Automation Enthusiast |  DevOps 
+Computer Science undergrad | AI Engineer | Building impactful AI solutions  |  DevOps 
 
 
 
 ### 🌟 About Me
--  Currently working on *AI and automation projects*
--  Learning and exploring **Generative AI and Agentic AI**
--  Open to collaborate on **open-source projects** and **Hackathons**
+-  Currently working as an **Associate AI Engineer**
+-  Learning and building **Agentic AI** and **Automation solutions**.
+-  Open to collaborate on **open-source projects**.
 -  I love mixing **tech + creativity** to build meaningful projects  
 
 ### 🌐 Let’s Connect
